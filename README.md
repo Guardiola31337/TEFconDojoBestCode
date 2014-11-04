@@ -74,3 +74,6 @@ heartbreak - 9 pins down each round, giving a score of 90
 5/5/5/5/5/5/5/5/5/5/5
 ```
 a spare every round, giving a score of 150
+
+Keep calm and refactor on green!
+Have fun!
